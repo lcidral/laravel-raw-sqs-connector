@@ -1,11 +1,11 @@
 {
-  "name": "primitivesense/laravel-raw-sqs-connector",
+  "name": "lcidral/laravel-raw-sqs-connector",
   "description": "Allows for the consumption of raw messages produced outside of Laravel from SQS to then be handled natively within Laravel's Queue and Job system",
   "license": "MIT",
   "authors": [
     {
-      "name": "Tom Harnasz",
-      "email": "tom@primitivesense.com"
+      "name": "Leonardo Cidral",
+      "email": "lcidral@gmail.com"
     }
   ],
   "require": {
@@ -16,7 +16,7 @@
   },
   "autoload": {
     "psr-4": {
-      "PrimitiveSense\\LaravelRawSqsConnector\\": "src/"
+      "lcidral\\LaravelRawSqsConnector\\": "src/"
     }
   },
   "autoload-dev": {
