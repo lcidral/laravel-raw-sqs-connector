@@ -1,5 +1,7 @@
 # Laravel Raw SQS Connector
 
+> Important notice: This repository and the corresponding package on Packagist may be removed or become unavailable at any time. Therefore, do not use this!
+
 ## About
 The purpose of this package is to allow you to consume raw messages produced outside of Laravel from AWS SQS to then be handled natively within Laravel's Queue and Job system. 
 
